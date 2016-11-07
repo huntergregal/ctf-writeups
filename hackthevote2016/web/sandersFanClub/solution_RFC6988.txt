@@ -1,0 +1,5 @@
+$> nc sandersfanclub.pwn.democrat 80
+GET /flag2.jpg HTTP/1.1
+Host: sandersfanclub.pwn.democrat
+Accept: text/plain
+Connection: close 
