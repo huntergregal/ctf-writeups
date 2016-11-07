@@ -1,0 +1,1 @@
+convert warp_speed.jpg -resize 500x500! -rotate -90 flag_partial.jpg
